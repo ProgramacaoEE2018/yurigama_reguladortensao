@@ -12,6 +12,10 @@ Tutorial utilizado: https://www.youtube.com/watch?v=sfzhB4eSNNM&list=PLS1QulWo1R
 
 Execução do tutorial para elaboração do esboço: https://user-images.githubusercontent.com/37374766/40452609-ccaf148c-5eb8-11e8-9813-16340de3a5f9.png
 
-Descrição do funcionamento da interface gráfica do usuário (GUI): o usuário, ao iniciar o programa pelo seu executável, terá acesso a uma GUI que exibirá 3 campos editáveis - Tensão de entrada (Vi), Corrente Total (I) e Tensão Zener (Vz) - para que sejam inseridos os valores de entrada para calcúlo dos parâmtros do regulador Zener. A GUI também exibirá um esquemático do circuito regulador Zener, com a indicação do nome da entrada/saída ao lado de cada componente, para facilitar a identificação pelo usuário. Ao clicar no botão "Calcular" existente, a GUI exibirá os valores de parâmetro para o regulador: Valor da Resistencia (Rs), Potência dissipada pela resistência Rs e valor máximo da corrente no diodo Zener (Iz).
+Descrição do funcionamento da interface gráfica do usuário (GUI): o usuário, ao iniciar o programa pelo seu executável, terá acesso a uma GUI que exibirá 4 campos editáveis - Tensão de entrada (V in), Corrente Total (I), Tensão Zener (Vz) e Resistência de carga (RL) - para que sejam inseridos os valores de entrada para calcúlo dos parâmtros do circuito regulador de tensão com diodo Zener. A GUI também exibirá um esquemático do circuito, com a indicação do nome da entrada/saída ao lado de cada componente, para facilitar a identificação dos parâmetros pelo usuário. A GUI terá dois botões: "Calcular" e "Limpar". Ao clicar no botão "Calcular", a tela exibirá os valores de parâmetros obtidos para o regulador: valor da resistencia em série (Rs), potência dissipada pela resistência em série (Pot Rs) e valor da corrente no diodo Zener (Iz), potência dissipada pela resistência de carga (Pot RL) e tensão de saída (V out).
 
 Esboco da GUI: https://user-images.githubusercontent.com/37374766/40452603-c98bbb98-5eb8-11e8-9f78-f56a51c19e08.png
+
+Documentação do Projeto e Código (Doxygen):
+
+Instruções de Compilação:
