@@ -16,6 +16,6 @@ Descrição do funcionamento da interface gráfica do usuário (GUI): o usuário
 
 Esboco da GUI: https://user-images.githubusercontent.com/37374766/40452603-c98bbb98-5eb8-11e8-9f78-f56a51c19e08.png
 
-Documentação do Projeto e Código (Doxygen):
+Documentação do Projeto (Doxygen): https://github.com/ProgramacaoEE2018/yurigama_reguladortensao/files/2092162/Documentacao_Projeto_Regulador_tensao_zener.pdf
 
 Instruções de Compilação:
