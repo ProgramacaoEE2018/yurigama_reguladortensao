@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReguladorTensaoZener", "ReguladorTensaoZener\ReguladorTensaoZener.csproj", "{7C6B8C77-1DDB-4AC4-B6DE-5C05C1ECE580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6B8C77-1DDB-4AC4-B6DE-5C05C1ECE580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6B8C77-1DDB-4AC4-B6DE-5C05C1ECE580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6B8C77-1DDB-4AC4-B6DE-5C05C1ECE580}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{7C6B8C77-1DDB-4AC4-B6DE-5C05C1ECE580}.Debug|Default.Build.0 = Debug|Any CPU
+		{7C6B8C77-1DDB-4AC4-B6DE-5C05C1ECE580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6B8C77-1DDB-4AC4-B6DE-5C05C1ECE580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6B8C77-1DDB-4AC4-B6DE-5C05C1ECE580}.Release|Default.ActiveCfg = Release|Any CPU
+		{7C6B8C77-1DDB-4AC4-B6DE-5C05C1ECE580}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D43445FF-B977-4E0F-8B60-D59D22FA5514}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal

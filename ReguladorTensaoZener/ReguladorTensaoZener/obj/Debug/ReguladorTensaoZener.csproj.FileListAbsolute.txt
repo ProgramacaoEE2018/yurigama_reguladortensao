@@ -1,0 +1,10 @@
+C:\Users\ygama\source\repos\ReguladorTensaoZener\ReguladorTensaoZener\bin\Debug\ReguladorTensaoZener.exe.config
+C:\Users\ygama\source\repos\ReguladorTensaoZener\ReguladorTensaoZener\bin\Debug\ReguladorTensaoZener.exe
+C:\Users\ygama\source\repos\ReguladorTensaoZener\ReguladorTensaoZener\bin\Debug\ReguladorTensaoZener.pdb
+C:\Users\ygama\source\repos\ReguladorTensaoZener\ReguladorTensaoZener\obj\Debug\ReguladorTensaoZener.csprojAssemblyReference.cache
+C:\Users\ygama\source\repos\ReguladorTensaoZener\ReguladorTensaoZener\obj\Debug\ReguladorTensaoZener.Form1.resources
+C:\Users\ygama\source\repos\ReguladorTensaoZener\ReguladorTensaoZener\obj\Debug\ReguladorTensaoZener.Properties.Resources.resources
+C:\Users\ygama\source\repos\ReguladorTensaoZener\ReguladorTensaoZener\obj\Debug\ReguladorTensaoZener.csproj.GenerateResource.cache
+C:\Users\ygama\source\repos\ReguladorTensaoZener\ReguladorTensaoZener\obj\Debug\ReguladorTensaoZener.csproj.CoreCompileInputs.cache
+C:\Users\ygama\source\repos\ReguladorTensaoZener\ReguladorTensaoZener\obj\Debug\ReguladorTensaoZener.exe
+C:\Users\ygama\source\repos\ReguladorTensaoZener\ReguladorTensaoZener\obj\Debug\ReguladorTensaoZener.pdb
